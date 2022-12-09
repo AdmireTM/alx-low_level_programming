@@ -4,6 +4,5 @@
  * *Return:Always 0
  **/
 int main(void)
-{ puts(puts("\"Programming is like building a multi lingual puzzle);
-r eturn(0);
-}
+{puts("\"Programming is like building a multi lingual puzzle);
+return(0);}
