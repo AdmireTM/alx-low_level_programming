@@ -1,16 +1,15 @@
-#include "stdio.h"
-
+#include <stdio.h>
 /**
- * main -  prints the alphabet in lowercase, followed by a new line.
- * Return: Always 0
- */
+*main- prints the alphabet in lowercase, followed by a new line.
+* Retun: Always 0
+*/
 int main(void)
 {
 	char letter;
 
 	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
+		_putchar(letter);
 
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
