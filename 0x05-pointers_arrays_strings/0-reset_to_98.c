@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
 * Takes pointer to integer parameter 
